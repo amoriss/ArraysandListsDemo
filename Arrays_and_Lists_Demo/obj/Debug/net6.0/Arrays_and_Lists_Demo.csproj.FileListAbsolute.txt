@@ -1,0 +1,15 @@
+C:\Users\amori\Desktop\Repos\02_ArraysAndLists\Arrays_and_Lists_and_Loops_Demo\Arrays_and_Lists_Demo\Arrays_and_Lists_Demo\bin\Debug\net6.0\Arrays_and_Lists_Demo.exe
+C:\Users\amori\Desktop\Repos\02_ArraysAndLists\Arrays_and_Lists_and_Loops_Demo\Arrays_and_Lists_Demo\Arrays_and_Lists_Demo\bin\Debug\net6.0\Arrays_and_Lists_Demo.deps.json
+C:\Users\amori\Desktop\Repos\02_ArraysAndLists\Arrays_and_Lists_and_Loops_Demo\Arrays_and_Lists_Demo\Arrays_and_Lists_Demo\bin\Debug\net6.0\Arrays_and_Lists_Demo.runtimeconfig.json
+C:\Users\amori\Desktop\Repos\02_ArraysAndLists\Arrays_and_Lists_and_Loops_Demo\Arrays_and_Lists_Demo\Arrays_and_Lists_Demo\bin\Debug\net6.0\Arrays_and_Lists_Demo.dll
+C:\Users\amori\Desktop\Repos\02_ArraysAndLists\Arrays_and_Lists_and_Loops_Demo\Arrays_and_Lists_Demo\Arrays_and_Lists_Demo\bin\Debug\net6.0\Arrays_and_Lists_Demo.pdb
+C:\Users\amori\Desktop\Repos\02_ArraysAndLists\Arrays_and_Lists_and_Loops_Demo\Arrays_and_Lists_Demo\Arrays_and_Lists_Demo\obj\Debug\net6.0\Arrays_and_Lists_Demo.csproj.AssemblyReference.cache
+C:\Users\amori\Desktop\Repos\02_ArraysAndLists\Arrays_and_Lists_and_Loops_Demo\Arrays_and_Lists_Demo\Arrays_and_Lists_Demo\obj\Debug\net6.0\Arrays_and_Lists_Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amori\Desktop\Repos\02_ArraysAndLists\Arrays_and_Lists_and_Loops_Demo\Arrays_and_Lists_Demo\Arrays_and_Lists_Demo\obj\Debug\net6.0\Arrays_and_Lists_Demo.AssemblyInfoInputs.cache
+C:\Users\amori\Desktop\Repos\02_ArraysAndLists\Arrays_and_Lists_and_Loops_Demo\Arrays_and_Lists_Demo\Arrays_and_Lists_Demo\obj\Debug\net6.0\Arrays_and_Lists_Demo.AssemblyInfo.cs
+C:\Users\amori\Desktop\Repos\02_ArraysAndLists\Arrays_and_Lists_and_Loops_Demo\Arrays_and_Lists_Demo\Arrays_and_Lists_Demo\obj\Debug\net6.0\Arrays_and_Lists_Demo.csproj.CoreCompileInputs.cache
+C:\Users\amori\Desktop\Repos\02_ArraysAndLists\Arrays_and_Lists_and_Loops_Demo\Arrays_and_Lists_Demo\Arrays_and_Lists_Demo\obj\Debug\net6.0\Arrays_and_Lists_Demo.dll
+C:\Users\amori\Desktop\Repos\02_ArraysAndLists\Arrays_and_Lists_and_Loops_Demo\Arrays_and_Lists_Demo\Arrays_and_Lists_Demo\obj\Debug\net6.0\refint\Arrays_and_Lists_Demo.dll
+C:\Users\amori\Desktop\Repos\02_ArraysAndLists\Arrays_and_Lists_and_Loops_Demo\Arrays_and_Lists_Demo\Arrays_and_Lists_Demo\obj\Debug\net6.0\Arrays_and_Lists_Demo.pdb
+C:\Users\amori\Desktop\Repos\02_ArraysAndLists\Arrays_and_Lists_and_Loops_Demo\Arrays_and_Lists_Demo\Arrays_and_Lists_Demo\obj\Debug\net6.0\Arrays_and_Lists_Demo.genruntimeconfig.cache
+C:\Users\amori\Desktop\Repos\02_ArraysAndLists\Arrays_and_Lists_and_Loops_Demo\Arrays_and_Lists_Demo\Arrays_and_Lists_Demo\obj\Debug\net6.0\ref\Arrays_and_Lists_Demo.dll
